@@ -1,0 +1,14 @@
+
+// The bottom left section
+
+/*
+function updateInfoBar() {
+  infoBar.innerText = `
+    Looking at : ${(cameraOffset.x+'').slice(0, 7)} ${(cameraOffset.y+'').slice(0, 7)}
+    Zoom : ${(cameraZoom+'').slice(0, 4)}
+    Bodies: ${U.bodies.length}
+    Speed : ${simulationSpeed} (Less is faster)
+  `;
+}
+
+*/
